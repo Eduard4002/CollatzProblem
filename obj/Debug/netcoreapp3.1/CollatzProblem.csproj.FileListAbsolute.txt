@@ -1,0 +1,13 @@
+C:\Users\eduard.mihic\Documents\vscode\CollatzProblem\bin\Debug\netcoreapp3.1\CollatzProblem.exe
+C:\Users\eduard.mihic\Documents\vscode\CollatzProblem\bin\Debug\netcoreapp3.1\CollatzProblem.deps.json
+C:\Users\eduard.mihic\Documents\vscode\CollatzProblem\bin\Debug\netcoreapp3.1\CollatzProblem.runtimeconfig.json
+C:\Users\eduard.mihic\Documents\vscode\CollatzProblem\bin\Debug\netcoreapp3.1\CollatzProblem.runtimeconfig.dev.json
+C:\Users\eduard.mihic\Documents\vscode\CollatzProblem\bin\Debug\netcoreapp3.1\CollatzProblem.dll
+C:\Users\eduard.mihic\Documents\vscode\CollatzProblem\bin\Debug\netcoreapp3.1\CollatzProblem.pdb
+C:\Users\eduard.mihic\Documents\vscode\CollatzProblem\obj\Debug\netcoreapp3.1\CollatzProblem.csprojAssemblyReference.cache
+C:\Users\eduard.mihic\Documents\vscode\CollatzProblem\obj\Debug\netcoreapp3.1\CollatzProblem.csproj.CoreCompileInputs.cache
+C:\Users\eduard.mihic\Documents\vscode\CollatzProblem\obj\Debug\netcoreapp3.1\CollatzProblem.AssemblyInfoInputs.cache
+C:\Users\eduard.mihic\Documents\vscode\CollatzProblem\obj\Debug\netcoreapp3.1\CollatzProblem.AssemblyInfo.cs
+C:\Users\eduard.mihic\Documents\vscode\CollatzProblem\obj\Debug\netcoreapp3.1\CollatzProblem.dll
+C:\Users\eduard.mihic\Documents\vscode\CollatzProblem\obj\Debug\netcoreapp3.1\CollatzProblem.pdb
+C:\Users\eduard.mihic\Documents\vscode\CollatzProblem\obj\Debug\netcoreapp3.1\CollatzProblem.genruntimeconfig.cache
