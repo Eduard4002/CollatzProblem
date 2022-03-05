@@ -37,6 +37,7 @@ namespace CollatzProblem
                 }
             
             }
+            Console.ReadLine();
             return;
         }
     }
